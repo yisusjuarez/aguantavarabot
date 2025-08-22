@@ -15,7 +15,6 @@ export default {
 
             // Fun phrases
             const phrasesPaydayToday = [
-                "💸 Hoy cae, compa… que se escuche la quincena hasta en el Metro",
                 "🎉 Hoy sí toca lana, ¡a comprar tacos como si no hubiera mañana!",
                 "🤑 Hoy cae la quincena y mi cartera ya pidió vacaciones",
                 "💰 Hoy toca gastar, que las tortillas no se compran solas",
@@ -38,6 +37,7 @@ export default {
             ];
 
             const phrasesNoPaydayToday = [
+                "Hablo ingles o que show? NO!!😅",
                 "Hoy toca Maruchan sin noodles",
                 "No, aún No he escuchado que chill la rata 🐀💸",
                 "😅 Hoy no cae, compa… la quincena se fue de parranda sin avisar",
