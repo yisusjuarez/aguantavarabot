@@ -18,22 +18,21 @@ export default {
                 "🎉 Hoy sí toca lana, ¡a comprar tacos como si no hubiera mañana!",
                 "🤑 Hoy cae la quincena y mi cartera ya pidió vacaciones",
                 "💰 Hoy toca gastar, que las tortillas no se compran solas",
-                "🤣 Hoy sí hay lana… aunque la mitad se vaya en café y tortas",
+                "🤣 Mi cartera y yo tenemos una relación a larga distancia, pero hoy se acerca.",
                 "💃 Hoy cayó la quincena y hasta el perro se siente millonario",
                 "🍕 Hoy toca darse gustos, que el hambre no espera",
                 "🏖️ Hoy sí llegó la lana, aunque las vacaciones sean en la sala",
                 "😂 Hoy cae, tu cartera y tu ánimo están de fiesta",
-                "😎 Hoy toca presumir… aunque solo sea con las monedas que pesan",
+                "😎 La puerca ya está en el chiquero.",
                 "💳 Hoy sí toca gastar, que la tarjeta sienta que vale la pena",
-                "🔥 Hoy la quincena llegó y el estrés se fue a pasear",
-                "🕺 Hoy sí hay dinero, tu cartera ya está haciendo cumbia",
+                "🔥 Hoy me dan asco los frijoles! Ya cayó",
+                "Ya va a caer agua al tinaco!! 💦",
                 "🥳 Hoy toca celebrar aunque sea con un Nescafécito",
-                "🍫 Hoy cayó la quincena, chocolate y tortas aseguradas",
-                "💥 Hoy sí hay lana, que los billetes se sientan en casa",
-                "🙌 Hoy toca presumir un poquito, aunque solo sea con ilusión",
+                "Hoy cae la quinceañera 🎉",
+                "🙌 Hoy si, deme ese elote bien preparado, póngale más mayonesa y queso aún que me cobre de más.",
                 "🎯 Hoy cae la quincena… y los antojos también",
                 "🛒 Hoy toca llenar el carrito… de cosas que no necesitabas pero quieres",
-                "🤣 Hoy sí hay lana, y si no, al menos que nos dé risa"
+                "🤣 Ya casi tiene dulces la piñata ☺️"
             ];
 
             const phrasesNoPaydayToday = [
